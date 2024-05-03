@@ -46,8 +46,11 @@ Features
 
 ## ATP
 
-| Step                 |Procedure             |Expected Results                   |
-|----------------------|:--------------------:|----------------------------------:|
-|  1                   | Run Counter Program  |GUI window appears with count = 0  |
-|  2                   | click count button   | display changes to count = 1      |
-etc...
+| Step                 | Procedure            | Expected Results                    |
+|----------------------|:---------------------|------------------------------------:|
+|  1                   | Run Counter Program  | GUI window appears with count = 0   |
+|  2                   | Click count button   | Display changes to count = 1        |
+|  3                   | Click reset button   | Display changes back to count = 0   |
+|  4                   | Enter text in input  | Text appears in display area        |
+|  5                   | Click save button    | Text is saved to file               |
+|  6                   | Close program        | Program window closes               |
