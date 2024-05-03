@@ -1,12 +1,12 @@
 
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
-# << Project Title >>
-## CS110 Final Project  << Semester, Year >>
+# Cake Personality Test
+## CS110 Final Project  Spring Semester, 2024
 
 ## Team Members
 
-<< List team member names >>
+Samiha Kazi
 
 ***
 
